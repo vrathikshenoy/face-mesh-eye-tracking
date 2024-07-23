@@ -20,7 +20,7 @@ This project uses computer vision techniques to perform real-time face mesh dete
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/face-mesh-eye-tracking.git
+   git clone https://github.com/vrathikshenoy/face-mesh-eye-tracking.git
    cd face-mesh-eye-tracking
    ```
 
@@ -66,7 +66,7 @@ You can adjust the following parameters in the script:
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/face-mesh-eye-tracking/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/vrathikshenoy/face-mesh-eye-tracking/issues) if you want to contribute.
 
 ## License
 
@@ -76,4 +76,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [MediaPipe](https://mediapipe.dev/) for the Face Mesh solution
 - [OpenCV](https://opencv.org/) for computer vision utilities
+
+## Referance 
+
+- https://github.com/niconielsen32/ComputerVision/blob/master/headPoseEstimation.py
 
